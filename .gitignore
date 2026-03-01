@@ -18,6 +18,7 @@ witch.zip
 **/node_modules
 **/coverage
 **/package.json
+**/package-lock.json
 
 # e2e
 **/e2e/*.js
